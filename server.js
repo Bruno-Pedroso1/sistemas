@@ -51,4 +51,3 @@ server.on('connection', (ws) => {
     });
 });
 
-console.log('Servidor WebSocket rodando na porta 4000');
